@@ -5,7 +5,7 @@ A comprehensive trip planning website for a family camper van adventure through 
 ## 📍 Route
 Erlangen → Lake Constance → Lake Como → Genoa → Cannes → Marseille → Geneva → Black Forest → Erlangen
 
-**Duration:** August 7-16, 2025 (10 days)  
+**Duration:** July 8-17, 2025 (10 days)  
 **Vehicles:** 2 Camper Vans  
 **Countries:** Germany, Italy, France, Switzerland
 
