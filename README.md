@@ -10,7 +10,7 @@ Erlangen → Lake Constance → Lake Como → Genoa → Cannes → Marseille →
 **Countries:** Germany, Italy, France, Switzerland
 
 ## 🌐 Live Website
-Visit the trip planning website: [Your GitHub Pages URL will be here]
+Visit the trip planning website: [[Euro 25 Road trip](https://florindiconescu.github.io/road-trip/)]
 
 ## ✨ Features
 
